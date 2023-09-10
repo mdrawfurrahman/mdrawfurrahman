@@ -1,6 +1,6 @@
 ![logo](https://github.com/mdrawfurrahman/mdrawfurrahman/blob/main/banner_01.png)
 
-<h1 align="center">Hi 👋, I'm Md. Rawfur Rahman</h1>
+<h1 align="center">Hi 👋&#128578,  This is Md. Rawfur Rahman</h1>
 <h3 align="center">Software Engineer & SEO Expert</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
